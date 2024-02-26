@@ -1319,6 +1319,7 @@ margin: 10px;
     padding-left: 40px;
     border: none;
     margin-left: 100px;
+    outline: none;
 }
 .my-email::placeholder{
     font-family: "montserrat";
@@ -1676,6 +1677,7 @@ margin: 10px;
     flex-direction: column;
     align-items: center;
     margin-left: 12%;
+    margin-right: 0;
 }
 .database{
     width: 305px;
@@ -1699,6 +1701,8 @@ margin: 10px;
     align-items: center;
     justify-content: center;
     margin: 0;
+    padding-left: 0;
+    padding-right: 0;
 }
 .email{
     width: 280px;
@@ -1741,6 +1745,8 @@ margin: 10px;
     height: 50px;
     border-radius: 10px;
     margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
 }
 .click p {
     font-family: "montserrat";
@@ -2020,7 +2026,7 @@ margin: 10px;
     width: 305px;
     height: 50px;
     border-radius: 10px;
-    margin-right: 20%;
+    margin-right: 0;
     background-image: url(./img/twemoji_flag-nigeria.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -2048,7 +2054,7 @@ margin: 10px;
     border-radius: 10px;
     gap: 10px;
    margin-left: 0;
-   margin-right: 100%;
+   margin-right: 150px;
    margin-top: 5%;
     padding: 0;
     font-family: "montserrat";
